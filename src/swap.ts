@@ -13,7 +13,7 @@ import {
   MAX_FEE_PER_GAS,
   MAX_PRIORITY_FEE_PER_GAS,
 } from './constants'
-import { ethers, BigNumber } from 'ethers'
+import { ethers } from 'ethers'
 
 import {
   AlphaRouter,
