@@ -1,0 +1,13 @@
+{
+  "name": "uniswap-crowd-form",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "marv",
+  "license": "MIT",
+  "dependencies": {
+    "@uniswap/sdk-core": "^5.3.1",
+    "@uniswap/smart-order-router": "^3.35.7",
+    "dotenv": "^16.4.5",
+    "ethers": "5.7.0"
+  }
+}
